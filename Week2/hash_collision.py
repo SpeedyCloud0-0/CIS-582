@@ -52,5 +52,5 @@ def get_sha_last_digit(word, num):
     last_digits = sha_str[-num:]
     return last_digits
 
-
-hash_collision(3)
+#
+# hash_collision(3)
