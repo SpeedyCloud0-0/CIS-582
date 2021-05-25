@@ -20,7 +20,7 @@ def decrypt(key, ciphertext):
     # print(plaintext)
     return plaintext
 
-# 
+#
 # encrypt(3, "ABC")
 # decrypt(3, "XYZ")
 
